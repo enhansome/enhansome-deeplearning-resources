@@ -1,8 +1,973 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "More details in Model Zoo",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2014 | GAN: Generative Adversarial Networks.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20651238,
+            "language": "Python",
+            "last_commit": "2020-05-25T03:31:19Z",
+            "owner": "goodfeli",
+            "repo": "adversarial",
+            "stars": 4076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2013 | RCNN: Rich feature hierarchies for accurate object detection and semantic segmentation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17728623,
+            "language": "Matlab",
+            "last_commit": "2017-04-03T16:16:14Z",
+            "owner": "rbgirshick",
+            "repo": "rcnn",
+            "stars": 2417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2014 | GoogLeNet: Going Deeper with Convolutions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42382201,
+            "language": null,
+            "last_commit": "2015-10-26T18:01:06Z",
+            "owner": "google",
+            "repo": "inception",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2012 | AlexNet: ImageNet Classification with Deep Convolutional Neural Networks.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82937757,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-05T17:20:59Z",
+            "owner": "kratzert",
+            "repo": "finetune_alexnet_with_tensorflow",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2014 | CGNA: Conditional Generative Adversarial Nets.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76228721,
+            "language": "Python",
+            "last_commit": "2022-06-27T09:41:00Z",
+            "owner": "zhangqianhui",
+            "repo": "Conditional-GAN",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2014 | DeepFaceVariant: Deep Learning Face Representation from Predicting 10,000 Classes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56468907,
+            "language": "Shell",
+            "last_commit": "2016-05-12T04:03:39Z",
+            "owner": "joyhuang9473",
+            "repo": "deepid-implementation",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Model Zoo"
+    },
+    {
+      "description": "More details in Pretrained Model",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aligning the fastText vectors of 78 languages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88980430,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-10T17:39:46Z",
+            "owner": "babylonhealth",
+            "repo": "fastText_multilingual",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caffe2 Model Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 82329862,
+            "language": "Python",
+            "last_commit": "2019-08-01T06:22:11Z",
+            "owner": "facebookarchive",
+            "repo": "models",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Available pretrained word embeddings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83266708,
+            "language": "Python",
+            "last_commit": "2025-04-02T22:24:10Z",
+            "owner": "vzhong",
+            "repo": "embeddings",
+            "stars": 223
+          }
+        }
+      ],
+      "title": "Pre Trained Model"
+    },
+    {
+      "description": "More details in software",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Microsoft Cognitive Toolkit.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46918116,
+            "language": "C++",
+            "last_commit": "2023-03-11T07:31:35Z",
+            "owner": "microsoft",
+            "repo": "CNTK",
+            "stars": 17596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Descriptive Deep Learning.",
+          "description": "star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74182569,
+            "language": "Python",
+            "last_commit": "2024-02-05T20:47:29Z",
+            "owner": "deepgram",
+            "repo": "kur",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Machine learning in Python.",
+          "description": "star:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Semi-supervised learning frameworks for Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39742851,
+                "language": "Python",
+                "last_commit": "2021-11-08T11:30:25Z",
+                "owner": "tmadl",
+                "repo": "semisup-learn",
+                "stars": 504
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": "More details in applications",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "pytorch",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A natural language processing toolkit using state-of-the-art deep learning models.",
+              "description": "star:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91356408,
+                "language": "Python",
+                "last_commit": "2022-11-22T23:28:35Z",
+                "owner": "allenai",
+                "repo": "allennlp",
+                "stars": 11887
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2D and 3D Face alignment library build using pytorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103698763,
+                "language": "Python",
+                "last_commit": "2026-04-06T22:19:17Z",
+                "owner": "1adrianb",
+                "repo": "face-alignment",
+                "stars": 7538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A implementation of WaveNet with fast generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88792576,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-09-17T15:50:34Z",
+                "owner": "vincentherrmann",
+                "repo": "pytorch-wavenet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A method to generate speech across multiple speakers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 100496936,
+                "language": "Python",
+                "last_commit": "2019-03-21T19:07:42Z",
+                "owner": "facebookarchive",
+                "repo": "loop",
+                "stars": 874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A fast and differentiable QP solver for PyTorch.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81881561,
+                "language": "Python",
+                "last_commit": "2024-09-03T21:48:47Z",
+                "owner": "locuslab",
+                "repo": "qpth",
+                "stars": 800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A model for style-specific music generation",
+              "description": "star:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79006723,
+                "language": "Python",
+                "last_commit": "2018-09-30T18:28:01Z",
+                "owner": "calclavia",
+                "repo": "DeepJ",
+                "stars": 743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Autoencoders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84349398,
+                "language": "Python",
+                "last_commit": "2017-05-18T13:11:31Z",
+                "owner": "fducau",
+                "repo": "AAE_pytorch",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "使用PyTorch实现Char RNN生成古诗和周杰伦的歌词",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102470725,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-02-18T06:22:24Z",
+                "owner": "L1aoXingyu",
+                "repo": "Char-RNN-PyTorch",
+                "stars": 153
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "theano",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep Neural Network for Sentiment Analysis on Twitter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29187367,
+                "language": "Python",
+                "last_commit": "2022-06-21T21:07:28Z",
+                "owner": "xiaohan2012",
+                "repo": "twitter-sent-dnn",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CNN-yelp-challenge-2016-sentiment-classification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52736571,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-02-02T16:25:24Z",
+                "owner": "haoopeng",
+                "repo": "CNN-yelp-challenge-2016-sentiment-classification",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep learning tutorial for PyData",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54848426,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-03-05T08:18:19Z",
+                "owner": "Britefury",
+                "repo": "deep-learning-tutorial-pydata",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Implementations of many popular deep learning models in Theano+Lasagne",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75018376,
+                "language": "Python",
+                "last_commit": "2017-07-12T03:13:07Z",
+                "owner": "kuleshov",
+                "repo": "deep-learning-models",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "tensorflow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "All kinds of text classificaiton models and more with deep learning",
+              "description": "star:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92841276,
+                "language": "Python",
+                "last_commit": "2023-09-28T05:55:11Z",
+                "owner": "brightmart",
+                "repo": "text_classification",
+                "stars": 7939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A generic image detection program that uses tensorflow and a pre-trained Inception.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92591678,
+                "language": "Python",
+                "last_commit": "2019-06-13T19:19:17Z",
+                "owner": "ArunMichaelDsouza",
+                "repo": "tensorflow-image-detection",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.",
+              "description": "star:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65353367,
+                "language": "Python",
+                "last_commit": "2018-02-09T04:30:18Z",
+                "owner": "kengz",
+                "repo": "openai_lab",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An easy implement of VGG19 with tensorflow, which has a detailed explanation.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88117232,
+                "language": "Python",
+                "last_commit": "2018-05-25T10:34:32Z",
+                "owner": "hjptriplebee",
+                "repo": "VGG19_with_tensorflow",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An implementation of Pix2Pix in Tensorflow for use with frames from films",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78691082,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-03-26T18:10:22Z",
+                "owner": "awjuliani",
+                "repo": "Pix2Pix-Film",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Applying transfer learning to a custom dataset by retraining Inception's final layer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94065032,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-06-25T13:45:15Z",
+                "owner": "HusainZafar",
+                "repo": "TransferLearningTutorial",
+                "stars": 94
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Keras",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Attention mechanism Implementation for Keras.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92132849,
+                "language": "Python",
+                "last_commit": "2026-03-12T05:12:09Z",
+                "owner": "philipperemy",
+                "repo": "keras-attention",
+                "stars": 2809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A neural network trained to help writing neural network code using autocomplete",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86944914,
+                "language": "Python",
+                "last_commit": "2020-12-23T13:35:35Z",
+                "owner": "kootenpv",
+                "repo": "neural_complete",
+                "stars": 1160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automated deep neural network design with genetic programming",
+              "description": "star:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81520737,
+                "language": "Python",
+                "last_commit": "2023-05-25T14:45:47Z",
+                "owner": "joeddav",
+                "repo": "devol",
+                "stars": 952
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62404292,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-09-30T18:39:28Z",
+                "owner": "JostineHo",
+                "repo": "mememoji",
+                "stars": 772
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A DCGAN to generate anime faces using custom mined dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97803883,
+                "language": "Python",
+                "last_commit": "2017-07-20T09:03:03Z",
+                "owner": "pavitrakumar78",
+                "repo": "Anime-Face-GAN-Keras",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keras Implementation of Ladder Network for Semi-Supervised Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172127300,
+                "language": "Python",
+                "last_commit": "2021-04-30T09:58:08Z",
+                "owner": "divamgupta",
+                "repo": "ladder_network_keras",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attention based Neural Machine Translation for Keras",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128475519,
+                "language": "Python",
+                "last_commit": "2018-04-13T09:41:00Z",
+                "owner": "divamgupta",
+                "repo": "attention-translation-keras",
+                "stars": 30
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mxnet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "使用MXNet的动态图接口Gluon实现Char RNN生成古诗和周杰伦的歌词",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102918683,
+                "language": "Python",
+                "last_commit": "2017-09-15T01:12:14Z",
+                "owner": "L1aoXingyu",
+                "repo": "Char-RNN-Gluon",
+                "stars": 56
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "More details in awesome projects",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21872392,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:49:59Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome places to learn and/or practice algorithms.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21911597,
+            "language": null,
+            "last_commit": "2026-04-18T15:06:58Z",
+            "owner": "tayllan",
+            "repo": "awesome-algorithms",
+            "stars": 25459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of resources dedicated to Natural Language Processing (NLP)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47184304,
+            "language": null,
+            "last_commit": "2026-08-18T21:35:47Z",
+            "owner": "keon",
+            "repo": "awesome-nlp",
+            "stars": 18907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of resources for NLP (Natural Language Processing) for Chinese",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97191792,
+            "language": null,
+            "last_commit": "2023-07-27T02:54:52Z",
+            "owner": "crownpku",
+            "repo": "Awesome-Chinese-NLP",
+            "stars": 7926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome R packages and tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22003158,
+            "language": "R",
+            "last_commit": "2025-09-18T16:46:19Z",
+            "owner": "qinwf",
+            "repo": "awesome-R",
+            "stars": 6499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+          "description": "star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Action Recognition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68941669,
+            "language": null,
+            "last_commit": "2023-05-13T17:00:12Z",
+            "owner": "jinwchoi",
+            "repo": "awesome-action-recognition",
+            "stars": 4012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A list of deep learning implementations in biology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60209509,
+            "language": null,
+            "last_commit": "2026-08-03T16:05:10Z",
+            "owner": "hussius",
+            "repo": "deeplearning-biology",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Another curated list of deep learning resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74903728,
+            "language": null,
+            "last_commit": "2024-01-18T13:35:40Z",
+            "owner": "guillaume-chevalier",
+            "repo": "Awesome-Deep-Learning-Resources",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome SLAM tutorials, projects and communities.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59407792,
+            "language": null,
+            "last_commit": "2020-07-13T17:49:45Z",
+            "owner": "kanster",
+            "repo": "awesome-slam",
+            "stars": 1674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-2vec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59341837,
+            "language": null,
+            "last_commit": "2022-12-08T11:47:32Z",
+            "owner": "MaxwellRebo",
+            "repo": "awesome-2vec",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of resources dedicated to bridge between coginitive science and deep learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90709785,
+            "language": null,
+            "last_commit": "2017-09-13T09:47:37Z",
+            "owner": "robi56",
+            "repo": "awesome-cognitive-science-and-deep-learning",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "Awesome Projects"
+    },
+    {
+      "description": "More details in corpus",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alphabetical list of free/public domain datasets with text data for use in NLP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54647141,
+            "language": null,
+            "last_commit": "2023-02-15T13:58:35Z",
+            "owner": "niderhoff",
+            "repo": "nlp-datasets",
+            "stars": 5995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75951828,
+            "language": null,
+            "last_commit": "2025-11-09T15:23:52Z",
+            "owner": "wainshine",
+            "repo": "Chinese-Names-Corpus",
+            "stars": 4326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "用于对话系统的中英文语料",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84949566,
+            "language": "Python",
+            "last_commit": "2020-09-23T21:06:45Z",
+            "owner": "candlewill",
+            "repo": "Dialog_Corpus",
+            "stars": 2056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "用于训练中英文对话系统的语料库 Datasets for Training Chatbot System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84949566,
+            "language": "Python",
+            "last_commit": "2020-09-23T21:06:45Z",
+            "owner": "candlewill",
+            "repo": "Dialog_Corpus",
+            "stars": 2056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "保险行业语料库",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98441914,
+            "language": "Python",
+            "last_commit": "2025-05-26T06:56:24Z",
+            "owner": "chatopera",
+            "repo": "insuranceqa-corpus-zh",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A dataset of 200k English plaintext jokes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 81943155,
+            "language": "Python",
+            "last_commit": "2022-12-16T10:22:00Z",
+            "owner": "taivop",
+            "repo": "joke-dataset",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中文语料小数据：Some useful Chinese corpus datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66624413,
+            "language": null,
+            "last_commit": "2020-03-29T08:43:35Z",
+            "owner": "crownpku",
+            "repo": "Small-Chinese-Corpus",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PTT 八卦版問答中文語料",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95656663,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-18T13:31:39Z",
+            "owner": "zake7749",
+            "repo": "Gossiping-Chinese-Corpus",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A dataset for personalized highlight detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115787713,
+            "language": null,
+            "last_commit": "2018-10-07T20:00:02Z",
+            "owner": "gifs",
+            "repo": "personalized-highlights-dataset",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Corpus"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-19T03:05:57.106Z",
+    "last_updated": "2026-08-19T12:28:01.995Z",
     "original_repository": "endymecy/awesome-deeplearning-resources",
+    "original_repository_id": 74940973,
     "original_repository_sha": "3ffb99432dbd0bb7fda1a2a2f84aef14d43f85d7",
     "enhanced_repository": "enhansome/enhansome-deeplearning-resources",
     "enhanced_repository_description": null,

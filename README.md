@@ -92,7 +92,7 @@ More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,361 | 🐛 68 | 🌐 TeX | 📅 2019-12-03
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,359 | 🐛 68 | 🌐 TeX | 📅 2019-12-03
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
@@ -188,14 +188,14 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,088 | 🐛 27 | 🌐 Python | 📅 2026-08-11
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,462 | 🐛 0 | 📅 2026-04-18
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,917 | 🐛 10 | 📅 2026-08-18
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,102 | 🐛 26 | 🌐 Python | 📅 2026-08-21
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,469 | 🐛 0 | 📅 2026-04-18
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,919 | 🐛 12 | 📅 2026-08-18
 * [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,925 | 🐛 11 | 📅 2023-07-27
-* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,502 | 🐛 29 | 🌐 R | 📅 2025-09-18
+* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,503 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,154 | 🐛 2 | 📅 2024-06-11 :star:
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,015 | 🐛 1 | 📅 2023-05-13
-* [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,154 | 🐛 0 | 📅 2026-08-03
+* [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,155 | 🐛 0 | 📅 2026-08-03
 * [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,814 | 🐛 15 | 📅 2024-01-18
 * [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,671 | 🐛 4 | 📅 2020-07-13
 * [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 933 | 🐛 0 | 📅 2022-12-08
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

@@ -162,7 +162,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17596
+            "stars": 17595
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74120
+            "stars": 74131
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-04-18T15:06:58Z",
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25472
+            "stars": 25473
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18920
+            "stars": 18926
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6503
+            "stars": 6506
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995
+            "stars": 5994
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:11:15.817Z",
+    "last_updated": "2026-08-24T03:12:08.309Z",
     "original_repository": "endymecy/awesome-deeplearning-resources",
     "original_repository_id": 74940973,
     "original_repository_sha": "3ffb99432dbd0bb7fda1a2a2f84aef14d43f85d7",

@@ -188,11 +188,11 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,120 | 🐛 26 | 🌐 Python | 📅 2026-08-21
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,472 | 🐛 0 | 📅 2026-04-18
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,920 | 🐛 12 | 📅 2026-08-18
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,131 | 🐛 26 | 🌐 Python | 📅 2026-08-21
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,473 | 🐛 0 | 📅 2026-04-18
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,926 | 🐛 13 | 📅 2026-08-18
 * [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,925 | 🐛 11 | 📅 2023-07-27
-* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,503 | 🐛 29 | 🌐 R | 📅 2025-09-18
+* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,506 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,153 | 🐛 2 | 📅 2024-06-11 :star:
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,015 | 🐛 1 | 📅 2023-05-13
 * [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,155 | 🐛 0 | 📅 2026-08-03
@@ -208,7 +208,7 @@ More details in [awesome projects](awesome_projects.md)
 
 # Corpus
 
-* [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15
+* [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets) ⭐ 5,994 | 🐛 12 | 📅 2023-02-15
 * [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,326 | 🐛 8 | 📅 2025-11-09
 * [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,056 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 * [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,056 | 🐛 2 | 🌐 Python | 📅 2020-09-23
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

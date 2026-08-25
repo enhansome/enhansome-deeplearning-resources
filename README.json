@@ -162,7 +162,7 @@
             "last_commit": "2019-12-03T04:25:44Z",
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37363
+            "stars": 37365
           }
         }
       ],
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74147
+            "stars": 74148
           }
         },
         {
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:07:27.312Z",
+    "last_updated": "2026-08-25T05:56:12.617Z",
     "original_repository": "endymecy/awesome-deeplearning-resources",
     "original_repository_id": 74940973,
     "original_repository_sha": "3ffb99432dbd0bb7fda1a2a2f84aef14d43f85d7",

@@ -162,7 +162,7 @@
             "last_commit": "2019-12-03T04:25:44Z",
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37456
+            "stars": 37515
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17597
+            "stars": 17594
           }
         },
         {
@@ -297,7 +297,7 @@
                 "last_commit": "2020-09-17T15:50:34Z",
                 "owner": "vincentherrmann",
                 "repo": "pytorch-wavenet",
-                "stars": 1029
+                "stars": 1030
               }
             },
             {
@@ -558,7 +558,7 @@
                 "last_commit": "2026-03-12T05:12:09Z",
                 "owner": "philipperemy",
                 "repo": "keras-attention",
-                "stars": 2810
+                "stars": 2809
               }
             },
             {
@@ -690,10 +690,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-24T19:57:48Z",
+            "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74156
+            "stars": 74177
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-04-18T15:06:58Z",
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25475
+            "stars": 25477
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18932
+            "stars": 18936
           }
         },
         {
@@ -969,7 +969,7 @@
             "last_commit": "2020-03-29T08:43:35Z",
             "owner": "crownpku",
             "repo": "Small-Chinese-Corpus",
-            "stars": 546
+            "stars": 545
           }
         },
         {
@@ -984,7 +984,7 @@
             "last_commit": "2024-10-18T13:31:39Z",
             "owner": "zake7749",
             "repo": "Gossiping-Chinese-Corpus",
-            "stars": 247
+            "stars": 246
           }
         },
         {
@@ -1007,9 +1007,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:13:53.274Z",
-    "original_repository": "endymecy/awesome-deeplearning-resources",
-    "original_repository_id": 74940973,
+    "last_updated": "2026-08-27T11:34:37.878Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 74940973,
+      "language": null,
+      "last_commit": "2026-01-28T10:58:06Z",
+      "owner": "endymecy",
+      "repo": "awesome-deeplearning-resources",
+      "stars": 3024
+    },
     "original_repository_sha": "3ffb99432dbd0bb7fda1a2a2f84aef14d43f85d7",
     "enhanced_repository": "enhansome/enhansome-deeplearning-resources",
     "enhanced_repository_description": null,

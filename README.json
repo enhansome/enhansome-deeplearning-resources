@@ -16,7 +16,8 @@
             "owner": "goodfeli",
             "repo": "adversarial",
             "stars": 4078
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "rbgirshick",
             "repo": "rcnn",
             "stars": 2416
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "google",
             "repo": "inception",
             "stars": 878
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "kratzert",
             "repo": "finetune_alexnet_with_tensorflow",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "zhangqianhui",
             "repo": "Conditional-GAN",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "joyhuang9473",
             "repo": "deepid-implementation",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         }
       ],
       "title": "Model Zoo"
@@ -112,7 +118,8 @@
             "owner": "babylonhealth",
             "repo": "fastText_multilingual",
             "stars": 1201
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "facebookarchive",
             "repo": "models",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "vzhong",
             "repo": "embeddings",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         }
       ],
       "title": "Pre Trained Model"
@@ -162,8 +171,9 @@
             "last_commit": "2019-12-03T04:25:44Z",
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37515
-          }
+            "stars": 37519
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         }
       ],
       "title": "Books"
@@ -184,7 +194,8 @@
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
             "stars": 6028
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         }
       ],
       "title": "Tutorials"
@@ -204,8 +215,9 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17594
-          }
+            "stars": 17595
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -220,7 +232,8 @@
             "owner": "deepgram",
             "repo": "kur",
             "stars": 824
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "group",
@@ -240,7 +253,8 @@
                 "owner": "tmadl",
                 "repo": "semisup-learn",
                 "stars": 504
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             }
           ]
         }
@@ -268,7 +282,8 @@
                 "owner": "allenai",
                 "repo": "allennlp",
                 "stars": 11886
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -283,7 +298,8 @@
                 "owner": "1adrianb",
                 "repo": "face-alignment",
                 "stars": 7538
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -298,7 +314,8 @@
                 "owner": "vincentherrmann",
                 "repo": "pytorch-wavenet",
                 "stars": 1030
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -313,7 +330,8 @@
                 "owner": "facebookarchive",
                 "repo": "loop",
                 "stars": 874
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -327,8 +345,9 @@
                 "last_commit": "2024-09-03T21:48:47Z",
                 "owner": "locuslab",
                 "repo": "qpth",
-                "stars": 799
-              }
+                "stars": 800
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -343,7 +362,8 @@
                 "owner": "calclavia",
                 "repo": "DeepJ",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -358,7 +378,8 @@
                 "owner": "fducau",
                 "repo": "AAE_pytorch",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -373,7 +394,8 @@
                 "owner": "L1aoXingyu",
                 "repo": "Char-RNN-PyTorch",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             }
           ]
         },
@@ -395,7 +417,8 @@
                 "owner": "xiaohan2012",
                 "repo": "twitter-sent-dnn",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "haoopeng",
                 "repo": "CNN-yelp-challenge-2016-sentiment-classification",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -425,7 +449,8 @@
                 "owner": "Britefury",
                 "repo": "deep-learning-tutorial-pydata",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -440,7 +465,8 @@
                 "owner": "kuleshov",
                 "repo": "deep-learning-models",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             }
           ]
         },
@@ -462,7 +488,8 @@
                 "owner": "brightmart",
                 "repo": "text_classification",
                 "stars": 7940
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -477,7 +504,8 @@
                 "owner": "ArunMichaelDsouza",
                 "repo": "tensorflow-image-detection",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -492,7 +520,8 @@
                 "owner": "kengz",
                 "repo": "openai_lab",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -507,7 +536,8 @@
                 "owner": "hjptriplebee",
                 "repo": "VGG19_with_tensorflow",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -522,7 +552,8 @@
                 "owner": "awjuliani",
                 "repo": "Pix2Pix-Film",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -537,7 +568,8 @@
                 "owner": "HusainZafar",
                 "repo": "TransferLearningTutorial",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             }
           ]
         },
@@ -559,7 +591,8 @@
                 "owner": "philipperemy",
                 "repo": "keras-attention",
                 "stars": 2809
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -574,7 +607,8 @@
                 "owner": "kootenpv",
                 "repo": "neural_complete",
                 "stars": 1159
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -589,7 +623,8 @@
                 "owner": "joeddav",
                 "repo": "devol",
                 "stars": 951
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -604,7 +639,8 @@
                 "owner": "JostineHo",
                 "repo": "mememoji",
                 "stars": 772
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -619,7 +655,8 @@
                 "owner": "pavitrakumar78",
                 "repo": "Anime-Face-GAN-Keras",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -634,7 +671,8 @@
                 "owner": "divamgupta",
                 "repo": "ladder_network_keras",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             },
             {
               "node_type": "item",
@@ -649,7 +687,8 @@
                 "owner": "divamgupta",
                 "repo": "attention-translation-keras",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             }
           ]
         },
@@ -671,7 +710,8 @@
                 "owner": "L1aoXingyu",
                 "repo": "Char-RNN-Gluon",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T14:16:59.371Z"
             }
           ]
         }
@@ -690,11 +730,12 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
-          }
+            "stars": 74195
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -708,8 +749,9 @@
             "last_commit": "2026-04-18T15:06:58Z",
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25477
-          }
+            "stars": 25476
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -723,8 +765,9 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18936
-          }
+            "stars": 18938
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -738,8 +781,9 @@
             "last_commit": "2023-07-27T02:54:52Z",
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7924
-          }
+            "stars": 7926
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -754,7 +798,8 @@
             "owner": "qinwf",
             "repo": "awesome-R",
             "stars": 6507
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -769,7 +814,8 @@
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
             "stars": 4154
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -784,7 +830,8 @@
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
             "stars": 4016
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -799,7 +846,8 @@
             "owner": "hussius",
             "repo": "deeplearning-biology",
             "stars": 2155
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -814,7 +862,8 @@
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
             "stars": 1815
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -829,7 +878,8 @@
             "owner": "kanster",
             "repo": "awesome-slam",
             "stars": 1672
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -844,7 +894,8 @@
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
             "stars": 933
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -859,7 +910,8 @@
             "owner": "robi56",
             "repo": "awesome-cognitive-science-and-deep-learning",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         }
       ],
       "title": "Awesome Projects"
@@ -879,8 +931,9 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995
-          }
+            "stars": 5994
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -895,7 +948,8 @@
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
             "stars": 4327
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -910,7 +964,8 @@
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
             "stars": 2056
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -925,7 +980,8 @@
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
             "stars": 2056
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -939,8 +995,9 @@
             "last_commit": "2025-05-26T06:56:24Z",
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1064
-          }
+            "stars": 1065
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1012,8 @@
             "owner": "taivop",
             "repo": "joke-dataset",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1028,8 @@
             "owner": "crownpku",
             "repo": "Small-Chinese-Corpus",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1044,8 @@
             "owner": "zake7749",
             "repo": "Gossiping-Chinese-Corpus",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         },
         {
           "node_type": "item",
@@ -1000,14 +1060,15 @@
             "owner": "gifs",
             "repo": "personalized-highlights-dataset",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T14:16:59.371Z"
         }
       ],
       "title": "Corpus"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:43:31.042Z",
+    "last_updated": "2026-08-28T14:16:59.371Z",
     "original_repository_info": {
       "archived": false,
       "id": 74940973,

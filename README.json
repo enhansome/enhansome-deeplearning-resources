@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37523,
+            "stars": 37524,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1080,10 +1080,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74203,
+            "stars": 74213,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25477,
+            "stars": 25481,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1122,10 +1122,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18941,
+            "stars": 18946,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1176,7 +1176,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
             "stars": 6507,
@@ -1268,7 +1268,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155,
+            "stars": 2156,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1289,7 +1289,7 @@
             "open_issues": 15,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1815,
+            "stars": 1816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1439,7 +1439,7 @@
             "open_issues": 2,
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
-            "stars": 2056,
+            "stars": 2055,
             "topics": [
               "chatbot",
               "corpus",
@@ -1466,7 +1466,7 @@
             "open_issues": 2,
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
-            "stars": 2056,
+            "stars": 2055,
             "topics": [
               "chatbot",
               "corpus",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:56:49.180Z",
+    "last_updated": "2026-08-30T08:14:01.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

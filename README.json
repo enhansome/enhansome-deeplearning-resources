@@ -425,7 +425,7 @@
                 "open_issues": 91,
                 "owner": "1adrianb",
                 "repo": "face-alignment",
-                "stars": 7535,
+                "stars": 7536,
                 "topics": [
                   "deep-learning",
                   "face-alignment",
@@ -573,7 +573,7 @@
                 "open_issues": 3,
                 "owner": "L1aoXingyu",
                 "repo": "Char-RNN-PyTorch",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "pytorch",
                   "rnn"
@@ -705,7 +705,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7939,
+                "stars": 7938,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1083,7 +1083,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74244,
+            "stars": 74250,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1122,10 +1122,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18962,
+            "stars": 18964,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1179,7 +1179,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507,
+            "stars": 6508,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1208,7 +1208,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4155,
+            "stars": 4156,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1412,7 +1412,7 @@
             "open_issues": 8,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4328,
+            "stars": 4327,
             "topics": [
               "corpus",
               "dataset",
@@ -1439,7 +1439,7 @@
             "open_issues": 2,
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
-            "stars": 2055,
+            "stars": 2054,
             "topics": [
               "chatbot",
               "corpus",
@@ -1466,7 +1466,7 @@
             "open_issues": 2,
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
-            "stars": 2055,
+            "stars": 2054,
             "topics": [
               "chatbot",
               "corpus",
@@ -1493,7 +1493,7 @@
             "open_issues": 10,
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1065,
+            "stars": 1064,
             "topics": [
               "chatbot",
               "corpus",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:06:56.946Z",
+    "last_updated": "2026-09-04T07:10:55.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

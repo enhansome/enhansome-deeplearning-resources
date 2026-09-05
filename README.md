@@ -92,7 +92,7 @@ More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,531 | 🐛 68 | 🌐 TeX | 📅 2019-12-03
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,534 | 🐛 68 | 🌐 TeX | 📅 2019-12-03
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
@@ -173,7 +173,7 @@ More details in [software](software.md)
   * [Applying transfer learning to a custom dataset by retraining Inception's final layer](https://github.com/HusainZafar/TransferLearningTutorial) ⭐ 94 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-06-25
 
 * Keras
-  * [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism) ⭐ 2,809 | 🐛 2 | 🌐 Python | 📅 2026-03-12
+  * [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism) ⭐ 2,808 | 🐛 2 | 🌐 Python | 📅 2026-03-12
   * [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete) ⭐ 1,159 | 🐛 4 | 🌐 Python | 📅 2020-12-23
   * [Automated deep neural network design with genetic programming](https://github.com/joeddav/devol) ⭐ 951 | 🐛 7 | 🌐 Python | 📅 2023-05-25 :star:
   * [A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.](https://github.com/JostineHo/mememoji) ⭐ 772 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2019-09-30
@@ -188,9 +188,9 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,250 | 🐛 29 | 🌐 Python | 📅 2026-09-02
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,498 | 🐛 1 | 📅 2026-04-18
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,964 | 🐛 17 | 📅 2026-08-18
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,259 | 🐛 30 | 🌐 Python | 📅 2026-09-02
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,502 | 🐛 1 | 📅 2026-04-18
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,966 | 🐛 17 | 📅 2026-08-18
 * [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,924 | 🐛 11 | 📅 2023-07-27
 * [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,508 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,156 | 🐛 2 | 📅 2024-06-11 :star:
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

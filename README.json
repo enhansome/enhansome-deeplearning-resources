@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37531,
+            "stars": 37534,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11885,
+                "stars": 11884,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -877,7 +877,7 @@
                 "open_issues": 2,
                 "owner": "philipperemy",
                 "repo": "keras-attention",
-                "stars": 2809,
+                "stars": 2808,
                 "topics": [
                   "attention-mechanism",
                   "attention-model",
@@ -1080,10 +1080,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T19:29:21Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74250,
+            "stars": 74259,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25498,
+            "stars": 25502,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18964,
+            "stars": 18966,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:10:55.729Z",
+    "last_updated": "2026-09-05T06:53:36.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1629,7 +1629,7 @@
       "open_issues": 3,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
-      "stars": 3026,
+      "stars": 3027,
       "topics": [
         "code",
         "corpus",

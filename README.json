@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37534,
+            "stars": 37533,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -327,7 +327,7 @@
             "open_issues": 17,
             "owner": "deepgram",
             "repo": "kur",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "deep-learning",
               "deep-learning-tutorial",
@@ -1083,7 +1083,7 @@
             "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74259,
+            "stars": 74263,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25502,
+            "stars": 25504,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18966,
+            "stars": 18965,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1208,7 +1208,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4156,
+            "stars": 4155,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4017,
+            "stars": 4016,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1391,7 +1391,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5996,
+            "stars": 5997,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1412,7 +1412,7 @@
             "open_issues": 8,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4327,
+            "stars": 4328,
             "topics": [
               "corpus",
               "dataset",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:53:36.460Z",
+    "last_updated": "2026-09-06T07:04:22.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

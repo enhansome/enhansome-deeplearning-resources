@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4081,
+            "stars": 4083,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37534,
+            "stars": 37537,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11884,
+                "stars": 11883,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1083,7 +1083,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74284,
+            "stars": 74288,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25515,
+            "stars": 25516,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18972,
+            "stars": 18973,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1289,7 +1289,7 @@
             "open_issues": 15,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1816,
+            "stars": 1817,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1493,7 +1493,7 @@
             "open_issues": 10,
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1064,
+            "stars": 1065,
             "topics": [
               "chatbot",
               "corpus",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:19:21.667Z",
+    "last_updated": "2026-09-10T07:14:53.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

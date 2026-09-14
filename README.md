@@ -165,7 +165,7 @@ More details in [software](software.md)
   * [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2017-07-12
 
 * tensorflow
-  * [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) ⭐ 7,938 | 🐛 46 | 🌐 Python | 📅 2023-09-28 :star:
+  * [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) ⭐ 7,939 | 🐛 46 | 🌐 Python | 📅 2023-09-28 :star:
   * [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection) ⭐ 332 | 🐛 8 | 🌐 Python | 📅 2019-06-13
   * [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2018-02-09 :star:
   * [An easy implement of VGG19 with tensorflow, which has a detailed explanation.](https://github.com/hjptriplebee/VGG19_with_tensorflow) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2018-05-25
@@ -188,10 +188,10 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,317 | 🐛 29 | 🌐 Python | 📅 2026-09-12
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,526 | 🐛 2 | 📅 2026-04-18
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,989 | 🐛 17 | 📅 2026-09-07
-* [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,924 | 🐛 11 | 📅 2023-07-27
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,327 | 🐛 29 | 🌐 Python | 📅 2026-09-12
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,528 | 🐛 1 | 📅 2026-04-18
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 18,996 | 🐛 17 | 📅 2026-09-07
+* [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,923 | 🐛 11 | 📅 2023-07-27
 * [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,507 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,158 | 🐛 2 | 📅 2024-06-11 :star:
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,015 | 🐛 1 | 📅 2023-05-13
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

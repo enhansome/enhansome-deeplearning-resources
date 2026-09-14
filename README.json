@@ -188,7 +188,7 @@
             "open_issues": 26,
             "owner": "facebookarchive",
             "repo": "models",
-            "stars": 445,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -705,7 +705,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7938,
+                "stars": 7939,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1083,7 +1083,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74317,
+            "stars": 74327,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1101,10 +1101,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-18T15:06:58Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25526,
+            "stars": 25528,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18989,
+            "stars": 18996,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1155,7 +1155,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7924,
+            "stars": 7923,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:24:59.928Z",
+    "last_updated": "2026-09-14T07:50:33.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

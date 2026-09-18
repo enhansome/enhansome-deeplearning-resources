@@ -294,7 +294,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17590,
+            "stars": 17589,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -495,7 +495,7 @@
                 "open_issues": 17,
                 "owner": "locuslab",
                 "repo": "qpth",
-                "stars": 801,
+                "stars": 802,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1079,11 +1079,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T14:34:25Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-17T10:19:48Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74359,
+            "stars": 74363,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25542,
+            "stars": 25547,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19005,
+            "stars": 19009,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1208,7 +1208,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4158,
+            "stars": 4157,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4028,
+            "stars": 4029,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1286,7 +1286,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-01-18T13:35:40Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
             "stars": 1819,
@@ -1493,7 +1493,7 @@
             "open_issues": 10,
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1066,
+            "stars": 1067,
             "topics": [
               "chatbot",
               "corpus",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:32:55.107Z",
+    "last_updated": "2026-09-18T07:20:47.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

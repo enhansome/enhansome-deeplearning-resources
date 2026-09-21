@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37550,
+            "stars": 37551,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11882,
+                "stars": 11881,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -425,7 +425,7 @@
                 "open_issues": 91,
                 "owner": "1adrianb",
                 "repo": "face-alignment",
-                "stars": 7537,
+                "stars": 7539,
                 "topics": [
                   "deep-learning",
                   "face-alignment",
@@ -705,7 +705,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7938,
+                "stars": 7937,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1083,7 +1083,7 @@
             "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74377,
+            "stars": 74382,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25550,
+            "stars": 25553,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1122,10 +1122,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19016,
+            "stars": 19021,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1179,7 +1179,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6512,
+            "stars": 6511,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4030,
+            "stars": 4031,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1268,7 +1268,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2156,
+            "stars": 2158,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1289,7 +1289,7 @@
             "open_issues": 16,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1819,
+            "stars": 1820,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1391,7 +1391,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5999,
+            "stars": 6000,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1412,7 +1412,7 @@
             "open_issues": 8,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4334,
+            "stars": 4335,
             "topics": [
               "corpus",
               "dataset",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:41:28.622Z",
+    "last_updated": "2026-09-21T07:54:06.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

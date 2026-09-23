@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37550,
+            "stars": 37553,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -267,7 +267,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6028,
+            "stars": 6029,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -294,7 +294,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17589,
+            "stars": 17587,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1079,11 +1079,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:54:11Z",
+            "last_commit": "2026-09-22T12:17:28Z",
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74393,
+            "stars": 74410,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1100,11 +1100,11 @@
             "id": 21911597,
             "language": null,
             "license": null,
-            "last_commit": "2026-04-18T15:06:58Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-22T17:49:33Z",
+            "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25560,
+            "stars": 25571,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 19,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19023,
+            "stars": 19026,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1208,7 +1208,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4158,
+            "stars": 4159,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4031,
+            "stars": 4033,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1318,7 +1318,7 @@
             "open_issues": 4,
             "owner": "kanster",
             "repo": "awesome-slam",
-            "stars": 1672,
+            "stars": 1671,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1391,7 +1391,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5999,
+            "stars": 6000,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:38:41.118Z",
+    "last_updated": "2026-09-23T07:40:13.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

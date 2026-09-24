@@ -61,8 +61,8 @@ You should find the papers and software with star flag are more important or pop
 
 # Model Zoo
 
-* 2014 | GAN: Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1406.2661)  [`code`](https://github.com/goodfeli/adversarial) ⭐ 4,083 | 🐛 7 | 🌐 Python | 📅 2020-05-25
-* 2013 | RCNN: Rich feature hierarchies for accurate object detection and semantic segmentation.  [`arxiv`](https://arxiv.org/abs/1311.2524)  [`code`](https://github.com/rbgirshick/rcnn) ⭐ 2,415 | 🐛 55 | 🌐 Matlab | 📅 2017-04-03
+* 2014 | GAN: Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1406.2661)  [`code`](https://github.com/goodfeli/adversarial) ⭐ 4,084 | 🐛 7 | 🌐 Python | 📅 2020-05-25
+* 2013 | RCNN: Rich feature hierarchies for accurate object detection and semantic segmentation.  [`arxiv`](https://arxiv.org/abs/1311.2524)  [`code`](https://github.com/rbgirshick/rcnn) ⭐ 2,415 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
 * 2014 | GoogLeNet: Going Deeper with Convolutions. [`pdf`](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)  [`code`](https://github.com/google/inception) ⚠️ Archived
 * 2012 | AlexNet: ImageNet Classification with Deep Convolutional Neural Networks. [`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [`code`](https://github.com/kratzert/finetune_alexnet_with_tensorflow) ⭐ 777 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2019-03-05
 * 2014 | CGNA: Conditional Generative Adversarial Nets. [`arxiv`](https://arxiv.org/abs/1411.1784)  [`code`](https://github.com/zhangqianhui/Conditional-Gans) ⭐ 218 | 🐛 3 | 🌐 Python | 📅 2022-06-27
@@ -119,7 +119,7 @@ More details in [books](books.md)
 
 # Tutorials
 
-* [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,029 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
+* [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
 * [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
 * [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
@@ -141,7 +141,7 @@ More details in [tutorials](tutorials.md)
 * <b>`Dlib`</b> [A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++.](http://dlib.net/)
 * <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
 * <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
-  * <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn) ⭐ 504 | 🐛 15 | 🌐 Python | 📅 2021-11-08
+  * <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn) ⭐ 503 | 🐛 15 | 🌐 Python | 📅 2021-11-08
 * <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
 
 More details in [software](software.md)
@@ -150,7 +150,7 @@ More details in [software](software.md)
 
 * pytorch
   * [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) ⚠️ Archived :star:
-  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,539 | 🐛 91 | 🌐 Python | 📅 2026-04-06
+  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,540 | 🐛 91 | 🌐 Python | 📅 2026-04-06
   * [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet) ⭐ 1,029 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-09-17
   * [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop) ⚠️ Archived
   * [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth) ⭐ 802 | 🐛 17 | 🌐 Python | 📅 2024-09-03
@@ -165,7 +165,7 @@ More details in [software](software.md)
   * [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2017-07-12
 
 * tensorflow
-  * [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) ⭐ 7,937 | 🐛 46 | 🌐 Python | 📅 2023-09-28 :star:
+  * [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) ⭐ 7,936 | 🐛 46 | 🌐 Python | 📅 2023-09-28 :star:
   * [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection) ⭐ 332 | 🐛 8 | 🌐 Python | 📅 2019-06-13
   * [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2018-02-09 :star:
   * [An easy implement of VGG19 with tensorflow, which has a detailed explanation.](https://github.com/hjptriplebee/VGG19_with_tensorflow) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2018-05-25
@@ -174,7 +174,7 @@ More details in [software](software.md)
 
 * Keras
   * [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism) ⭐ 2,808 | 🐛 2 | 🌐 Python | 📅 2026-03-12
-  * [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete) ⭐ 1,158 | 🐛 4 | 🌐 Python | 📅 2020-12-23
+  * [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete) ⭐ 1,159 | 🐛 4 | 🌐 Python | 📅 2020-12-23
   * [Automated deep neural network design with genetic programming](https://github.com/joeddav/devol) ⭐ 952 | 🐛 7 | 🌐 Python | 📅 2023-05-25 :star:
   * [A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.](https://github.com/JostineHo/mememoji) ⭐ 771 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2019-09-30
   * [A DCGAN to generate anime faces using custom mined dataset](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras) ⭐ 198 | 🐛 0 | 🌐 Python | 📅 2017-07-20
@@ -188,16 +188,16 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,410 | 🐛 20 | 🌐 Python | 📅 2026-09-22
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,571 | 🐛 0 | 📅 2026-09-22
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,026 | 🐛 19 | 📅 2026-09-07
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,432 | 🐛 20 | 🌐 Python | 📅 2026-09-22
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,575 | 🐛 0 | 📅 2026-09-22
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,029 | 🐛 20 | 📅 2026-09-07
 * [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,920 | 🐛 11 | 📅 2023-07-27
-* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,514 | 🐛 29 | 🌐 R | 📅 2025-09-18
+* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,515 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,159 | 🐛 2 | 📅 2024-06-11 :star:
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,033 | 🐛 1 | 📅 2023-05-13
 * [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,158 | 🐛 0 | 📅 2026-09-12
 * [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,820 | 🐛 16 | 📅 2024-01-18
-* [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,671 | 🐛 4 | 📅 2020-07-13
+* [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,672 | 🐛 4 | 📅 2020-07-13
 * [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 933 | 🐛 0 | 📅 2022-12-08
 * [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning) ⭐ 88 | 🐛 0 | 📅 2017-09-13
 * [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
@@ -209,7 +209,7 @@ More details in [awesome projects](awesome_projects.md)
 # Corpus
 
 * [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets) ⭐ 6,000 | 🐛 12 | 📅 2023-02-15
-* [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,335 | 🐛 8 | 📅 2025-11-09
+* [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,334 | 🐛 8 | 📅 2025-11-09
 * [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,054 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 * [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,054 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 * [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh) ⭐ 1,068 | 🐛 10 | 🌐 Python | 📅 2025-05-26
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

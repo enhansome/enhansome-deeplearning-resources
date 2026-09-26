@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4084,
+            "stars": 4085,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -40,7 +40,7 @@
             "open_issues": 54,
             "owner": "rbgirshick",
             "repo": "rcnn",
-            "stars": 2415,
+            "stars": 2416,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37641,
+            "stars": 37651,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74448,
+            "stars": 74454,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25577,
+            "stars": 25584,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1339,7 +1339,7 @@
             "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "awesome",
               "embeddings",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:38:33.230Z",
+    "last_updated": "2026-09-26T07:30:44.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

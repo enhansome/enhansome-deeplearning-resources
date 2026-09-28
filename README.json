@@ -40,7 +40,7 @@
             "open_issues": 54,
             "owner": "rbgirshick",
             "repo": "rcnn",
-            "stars": 2416,
+            "stars": 2417,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -108,7 +108,7 @@
             "open_issues": 3,
             "owner": "zhangqianhui",
             "repo": "Conditional-GAN",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "conditional-gan",
               "generative-adversarial-network",
@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37654,
+            "stars": 37653,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11882,
+                "stars": 11883,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -925,7 +925,7 @@
                 "open_issues": 7,
                 "owner": "joeddav",
                 "repo": "devol",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1083,7 +1083,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74466,
+            "stars": 74478,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25588,
+            "stars": 25592,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 24,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19037,
+            "stars": 19045,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1176,10 +1176,10 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6515,
+            "stars": 6517,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1208,7 +1208,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4159,
+            "stars": 4160,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4033,
+            "stars": 4034,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:00:18.983Z",
+    "last_updated": "2026-09-28T08:36:41.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1629,7 +1629,7 @@
       "open_issues": 3,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
-      "stars": 3028,
+      "stars": 3027,
       "topics": [
         "code",
         "corpus",

@@ -240,7 +240,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37653,
+            "stars": 37655,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -267,7 +267,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6028,
+            "stars": 6029,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -705,7 +705,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7936,
+                "stars": 7937,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1083,7 +1083,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74478,
+            "stars": 74486,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25592,
+            "stars": 25598,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 24,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19045,
+            "stars": 19044,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1155,7 +1155,7 @@
             "open_issues": 10,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7920,
+            "stars": 7921,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -1268,7 +1268,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2158,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1289,7 +1289,7 @@
             "open_issues": 16,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1820,
+            "stars": 1821,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1318,7 +1318,7 @@
             "open_issues": 4,
             "owner": "kanster",
             "repo": "awesome-slam",
-            "stars": 1672,
+            "stars": 1673,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:36:41.120Z",
+    "last_updated": "2026-09-29T08:19:35.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

@@ -240,7 +240,7 @@
             "open_issues": 69,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37654,
+            "stars": 37657,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74511,
+            "stars": 74514,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19049,
+            "stars": 19050,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:02.602Z",
+    "last_updated": "2026-10-03T07:57:45.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

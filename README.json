@@ -240,7 +240,7 @@
             "open_issues": 69,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37657,
+            "stars": 37723,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -294,7 +294,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17589,
+            "stars": 17591,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11885,
+                "stars": 11886,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1080,10 +1080,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T16:49:00Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74514,
+            "stars": 74517,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19050,
+            "stars": 19053,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1179,7 +1179,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6516,
+            "stars": 6515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:57:45.767Z",
+    "last_updated": "2026-10-04T08:19:32.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

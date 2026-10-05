@@ -188,7 +188,7 @@
             "open_issues": 26,
             "owner": "facebookarchive",
             "repo": "models",
-            "stars": 447,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -240,7 +240,7 @@
             "open_issues": 69,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37723,
+            "stars": 37783,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -267,7 +267,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6032,
+            "stars": 6031,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -294,7 +294,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17591,
+            "stars": 17592,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11886,
+                "stars": 11885,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1080,10 +1080,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T16:49:00Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74517,
+            "stars": 74520,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25598,
+            "stars": 25601,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1122,10 +1122,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19053,
+            "stars": 19056,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1179,7 +1179,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6515,
+            "stars": 6514,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4039,
+            "stars": 4038,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1493,7 +1493,7 @@
             "open_issues": 10,
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1068,
+            "stars": 1067,
             "topics": [
               "chatbot",
               "corpus",
@@ -1574,7 +1574,7 @@
             "open_issues": 0,
             "owner": "zake7749",
             "repo": "Gossiping-Chinese-Corpus",
-            "stars": 246,
+            "stars": 248,
             "topics": [
               "chatbot",
               "chatbot-corpus",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:19:32.054Z",
+    "last_updated": "2026-10-05T08:50:47.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1629,7 +1629,7 @@
       "open_issues": 3,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
-      "stars": 3027,
+      "stars": 3028,
       "topics": [
         "code",
         "corpus",

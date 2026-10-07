@@ -92,7 +92,7 @@ More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,784 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,785 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
@@ -150,7 +150,7 @@ More details in [software](software.md)
 
 * pytorch
   * [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) ⚠️ Archived :star:
-  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,543 | 🐛 91 | 🌐 Python | 📅 2026-04-06
+  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,542 | 🐛 91 | 🌐 Python | 📅 2026-04-06
   * [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet) ⭐ 1,029 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-09-17
   * [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop) ⚠️ Archived
   * [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth) ⭐ 802 | 🐛 17 | 🌐 Python | 📅 2024-09-03
@@ -188,17 +188,17 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,531 | 🐛 20 | 🌐 Python | 📅 2026-09-30
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,533 | 🐛 21 | 🌐 Python | 📅 2026-09-30
 * [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,604 | 🐛 0 | 📅 2026-09-22
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,059 | 🐛 28 | 📅 2026-09-07
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,060 | 🐛 29 | 📅 2026-09-07
 * [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,921 | 🐛 10 | 📅 2023-07-27
-* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,514 | 🐛 28 | 🌐 R | 📅 2025-09-18
+* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,513 | 🐛 28 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,161 | 🐛 2 | 📅 2024-06-11 :star:
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,038 | 🐛 1 | 📅 2023-05-13
 * [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,160 | 🐛 0 | 📅 2026-09-12
 * [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,821 | 🐛 16 | 📅 2024-01-18
 * [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,673 | 🐛 4 | 📅 2020-07-13
-* [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 935 | 🐛 0 | 📅 2022-12-08
+* [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 936 | 🐛 0 | 📅 2022-12-08
 * [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning) ⭐ 90 | 🐛 0 | 📅 2017-09-13
 * [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 * [188 examples of artificial intelligence in action](https://poo.ai/)
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

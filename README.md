@@ -61,7 +61,7 @@ You should find the papers and software with star flag are more important or pop
 
 # Model Zoo
 
-* 2014 | GAN: Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1406.2661)  [`code`](https://github.com/goodfeli/adversarial) ⭐ 4,086 | 🐛 7 | 🌐 Python | 📅 2020-05-25
+* 2014 | GAN: Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1406.2661)  [`code`](https://github.com/goodfeli/adversarial) ⭐ 4,087 | 🐛 7 | 🌐 Python | 📅 2020-05-25
 * 2013 | RCNN: Rich feature hierarchies for accurate object detection and semantic segmentation.  [`arxiv`](https://arxiv.org/abs/1311.2524)  [`code`](https://github.com/rbgirshick/rcnn) ⭐ 2,418 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
 * 2014 | GoogLeNet: Going Deeper with Convolutions. [`pdf`](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)  [`code`](https://github.com/google/inception) ⚠️ Archived
 * 2012 | AlexNet: ImageNet Classification with Deep Convolutional Neural Networks. [`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [`code`](https://github.com/kratzert/finetune_alexnet_with_tensorflow) ⭐ 777 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2019-03-05
@@ -92,7 +92,7 @@ More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,788 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,787 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
@@ -150,10 +150,10 @@ More details in [software](software.md)
 
 * pytorch
   * [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) ⚠️ Archived :star:
-  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,543 | 🐛 91 | 🌐 Python | 📅 2026-04-06
+  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,544 | 🐛 91 | 🌐 Python | 📅 2026-04-06
   * [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet) ⭐ 1,029 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-09-17
   * [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop) ⚠️ Archived
-  * [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth) ⭐ 802 | 🐛 17 | 🌐 Python | 📅 2024-09-03
+  * [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth) ⭐ 803 | 🐛 17 | 🌐 Python | 📅 2024-09-03
   * [A model for style-specific music generation](https://github.com/calclavia/DeepJ) ⭐ 744 | 🐛 17 | 🌐 Python | 📅 2018-09-30 :star:
   * [Adversarial Autoencoders](https://github.com/fducau/AAE_pytorch) ⭐ 198 | 🐛 0 | 🌐 Python | 📅 2017-05-18
   * [使用PyTorch实现Char RNN生成古诗和周杰伦的歌词](https://github.com/SherlockLiao/Char-RNN-PyTorch) ⭐ 154 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-02-18
@@ -188,16 +188,16 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,544 | 🐛 22 | 🌐 Python | 📅 2026-10-07
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,601 | 🐛 0 | 📅 2026-09-22
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,553 | 🐛 23 | 🌐 Python | 📅 2026-10-07
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,608 | 🐛 0 | 📅 2026-09-22
 * [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,065 | 🐛 30 | 📅 2026-09-07
-* [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,921 | 🐛 10 | 📅 2023-07-27
+* [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,919 | 🐛 10 | 📅 2023-07-27
 * [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,513 | 🐛 28 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,162 | 🐛 2 | 📅 2024-06-11 :star:
-* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,038 | 🐛 1 | 📅 2023-05-13
-* [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,160 | 🐛 0 | 📅 2026-09-12
-* [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,820 | 🐛 16 | 📅 2024-01-18
-* [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,673 | 🐛 4 | 📅 2020-07-13
+* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,037 | 🐛 1 | 📅 2023-05-13
+* [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,159 | 🐛 0 | 📅 2026-09-12
+* [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,820 | 🐛 15 | 📅 2024-01-18
+* [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,672 | 🐛 4 | 📅 2020-07-13
 * [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 936 | 🐛 0 | 📅 2022-12-08
 * [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning) ⭐ 90 | 🐛 0 | 📅 2017-09-13
 * [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

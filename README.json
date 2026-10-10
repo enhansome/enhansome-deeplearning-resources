@@ -82,7 +82,7 @@
             "open_issues": 10,
             "owner": "kratzert",
             "repo": "finetune_alexnet_with_tensorflow",
-            "stars": 777,
+            "stars": 776,
             "topics": [
               "alexnet",
               "deep-learning",
@@ -160,7 +160,7 @@
             "open_issues": 11,
             "owner": "babylonhealth",
             "repo": "fastText_multilingual",
-            "stars": 1201,
+            "stars": 1202,
             "topics": [
               "distributed-representations",
               "machine-learning",
@@ -294,7 +294,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17586,
+            "stars": 17587,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11884,
+                "stars": 11883,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -453,7 +453,7 @@
                 "open_issues": 30,
                 "owner": "vincentherrmann",
                 "repo": "pytorch-wavenet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1079,11 +1079,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T21:59:25Z",
+            "last_commit": "2026-10-09T23:52:52Z",
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74553,
+            "stars": 74561,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25608,
+            "stars": 25609,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 30,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19065,
+            "stars": 19069,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1179,7 +1179,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6513,
+            "stars": 6515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1391,7 +1391,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6003,
+            "stars": 6001,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 10,
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1068,
+            "stars": 1069,
             "topics": [
               "chatbot",
               "corpus",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:52:15.256Z",
+    "last_updated": "2026-10-10T08:23:12.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1629,7 +1629,7 @@
       "open_issues": 3,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
-      "stars": 3029,
+      "stars": 3028,
       "topics": [
         "code",
         "corpus",

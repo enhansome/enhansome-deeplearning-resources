@@ -72,7 +72,7 @@ More details in [Model Zoo](model_zoo.md)
 
 # Pre Trained Model
 
-* [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,203 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
+* [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,204 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
 * [Caffe2 Model Repository](https://github.com/caffe2/models) ⚠️ Archived
 * [Available pretrained word embeddings](https://github.com/vzhong/embeddings) ⭐ 225 | 🐛 1 | 🌐 Python | 📅 2025-04-02
 * [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
@@ -92,7 +92,7 @@ More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,817 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,816 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
@@ -165,7 +165,7 @@ More details in [software](software.md)
   * [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2017-07-12
 
 * tensorflow
-  * [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) ⭐ 7,938 | 🐛 46 | 🌐 Python | 📅 2023-09-28 :star:
+  * [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) ⭐ 7,939 | 🐛 46 | 🌐 Python | 📅 2023-09-28 :star:
   * [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection) ⭐ 333 | 🐛 8 | 🌐 Python | 📅 2019-06-13
   * [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2018-02-09 :star:
   * [An easy implement of VGG19 with tensorflow, which has a detailed explanation.](https://github.com/hjptriplebee/VGG19_with_tensorflow) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2018-05-25
@@ -188,14 +188,14 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,611 | 🐛 24 | 🌐 Python | 📅 2026-10-13
-* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,625 | 🐛 0 | 📅 2026-10-13
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,087 | 🐛 2 | 📅 2026-10-12
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,621 | 🐛 23 | 🌐 Python | 📅 2026-10-19
+* [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,627 | 🐛 0 | 📅 2026-10-13
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,089 | 🐛 2 | 📅 2026-10-12
 * [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,920 | 🐛 10 | 📅 2023-07-27
 * [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,525 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,162 | 🐛 2 | 📅 2024-06-11 :star:
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,039 | 🐛 2 | 📅 2023-05-13
-* [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,161 | 🐛 0 | 📅 2026-09-12
+* [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,162 | 🐛 0 | 📅 2026-09-12
 * [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,821 | 🐛 16 | 📅 2024-01-18
 * [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,676 | 🐛 4 | 📅 2020-07-13
 * [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 936 | 🐛 0 | 📅 2022-12-08
@@ -212,7 +212,7 @@ More details in [awesome projects](awesome_projects.md)
 * [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,341 | 🐛 7 | 📅 2025-11-09
 * [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,057 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 * [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,057 | 🐛 2 | 🌐 Python | 📅 2020-09-23
-* [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh) ⭐ 1,069 | 🐛 10 | 🌐 Python | 📅 2025-05-26
+* [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh) ⭐ 1,068 | 🐛 10 | 🌐 Python | 📅 2025-05-26
 * [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset) ⚠️ Archived
 * [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus) ⭐ 546 | 🐛 2 | 📅 2020-03-29
 * [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus) ⭐ 248 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-10-18
@@ -257,4 +257,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

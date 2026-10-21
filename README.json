@@ -40,7 +40,7 @@
             "open_issues": 54,
             "owner": "rbgirshick",
             "repo": "rcnn",
-            "stars": 2416,
+            "stars": 2415,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -240,7 +240,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37816,
+            "stars": 37817,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74621,
+            "stars": 74626,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25627,
+            "stars": 25629,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 2,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19089,
+            "stars": 19092,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1176,10 +1176,10 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6525,
+            "stars": 6526,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1234,7 +1234,7 @@
             "open_issues": 2,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4039,
+            "stars": 4040,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1318,7 +1318,7 @@
             "open_issues": 4,
             "owner": "kanster",
             "repo": "awesome-slam",
-            "stars": 1676,
+            "stars": 1677,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1412,7 +1412,7 @@
             "open_issues": 7,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4341,
+            "stars": 4340,
             "topics": [
               "corpus",
               "dataset",
@@ -1550,7 +1550,7 @@
             "open_issues": 2,
             "owner": "crownpku",
             "repo": "Small-Chinese-Corpus",
-            "stars": 546,
+            "stars": 545,
             "topics": [
               "chinese-nlp",
               "corpus"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:24:56.846Z",
+    "last_updated": "2026-10-21T07:27:23.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1625,8 +1625,8 @@
       "id": 74940973,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-01-28T10:58:06Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-21T03:07:06Z",
+      "open_issues": 1,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
       "stars": 3030,
@@ -1642,7 +1642,7 @@
         "video"
       ]
     },
-    "original_repository_sha": "3ffb99432dbd0bb7fda1a2a2f84aef14d43f85d7",
+    "original_repository_sha": "97e1acaba8575e57e49ce284740425fd20e945a7",
     "enhanced_repository": "enhansome/enhansome-deeplearning-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Deep learning papers and other resources with stars"

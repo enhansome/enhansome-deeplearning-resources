@@ -92,7 +92,7 @@ More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,872 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,956 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
@@ -120,7 +120,7 @@ More details in [books](books.md)
 
 # Tutorials
 
-* [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,029 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
+* [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,030 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
 * [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
 * [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
@@ -151,7 +151,7 @@ More details in [software](software.md)
 
 * pytorch
   * [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) ⚠️ Archived :star:
-  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,546 | 🐛 91 | 🌐 Python | 📅 2026-04-06
+  * [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment) ⭐ 7,547 | 🐛 91 | 🌐 Python | 📅 2026-04-06
   * [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet) ⭐ 1,031 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-09-17
   * [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop) ⚠️ Archived
   * [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth) ⭐ 803 | 🐛 17 | 🌐 Python | 📅 2024-09-03
@@ -189,13 +189,13 @@ More details in [applications](applications.md)
 
 # Awesome Projects
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,639 | 🐛 24 | 🌐 Python | 📅 2026-10-22
+* [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,645 | 🐛 23 | 🌐 Python | 📅 2026-10-22
 * [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms) ⭐ 25,631 | 🐛 0 | 📅 2026-10-13
-* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,093 | 🐛 3 | 📅 2026-10-12
-* [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,921 | 🐛 10 | 📅 2023-07-27
-* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,527 | 🐛 30 | 🌐 R | 📅 2025-09-18
+* [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,095 | 🐛 3 | 📅 2026-10-12
+* [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99) ⭐ 7,920 | 🐛 10 | 📅 2023-07-27
+* [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R) ⭐ 6,525 | 🐛 30 | 🌐 R | 📅 2025-09-18
 * [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,163 | 🐛 2 | 📅 2024-06-11 :star:
-* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,040 | 🐛 2 | 📅 2023-05-13
+* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,038 | 🐛 2 | 📅 2023-05-13
 * [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,163 | 🐛 0 | 📅 2026-09-12
 * [Another curated list of deep learning resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ⭐ 1,821 | 🐛 16 | 📅 2024-01-18
 * [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam) ⭐ 1,677 | 🐛 4 | 📅 2020-07-13
@@ -213,7 +213,7 @@ More details in [awesome projects](awesome_projects.md)
 * [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,340 | 🐛 7 | 📅 2025-11-09
 * [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,057 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 * [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus) ⭐ 2,057 | 🐛 2 | 🌐 Python | 📅 2020-09-23
-* [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh) ⭐ 1,068 | 🐛 10 | 🌐 Python | 📅 2025-05-26
+* [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh) ⭐ 1,069 | 🐛 10 | 🌐 Python | 📅 2025-05-26
 * [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset) ⚠️ Archived
 * [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus) ⭐ 545 | 🐛 2 | 📅 2020-03-29
 * [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus) ⭐ 248 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-10-18
@@ -258,4 +258,4 @@ The details in [License](LICENCE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

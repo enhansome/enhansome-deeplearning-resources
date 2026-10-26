@@ -240,7 +240,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37968,
+            "stars": 37970,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -267,7 +267,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6031,
+            "stars": 6032,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1080,10 +1080,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T18:52:55Z",
-            "open_issues": 24,
+            "open_issues": 26,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74654,
+            "stars": 74658,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1122,10 +1122,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19101,
+            "stars": 19102,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1152,7 +1152,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
             "stars": 7922,
@@ -1179,7 +1179,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6529,
+            "stars": 6531,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1391,7 +1391,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6003,
+            "stars": 6005,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:31:20.715Z",
+    "last_updated": "2026-10-26T07:42:16.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1629,7 +1629,7 @@
       "open_issues": 1,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
-      "stars": 3030,
+      "stars": 3029,
       "topics": [
         "code",
         "corpus",

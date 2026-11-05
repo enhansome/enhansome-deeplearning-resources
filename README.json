@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4090,
+            "stars": 4091,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -40,7 +40,7 @@
             "open_issues": 54,
             "owner": "rbgirshick",
             "repo": "rcnn",
-            "stars": 2416,
+            "stars": 2417,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -160,7 +160,7 @@
             "open_issues": 11,
             "owner": "babylonhealth",
             "repo": "fastText_multilingual",
-            "stars": 1204,
+            "stars": 1203,
             "topics": [
               "distributed-representations",
               "machine-learning",
@@ -240,7 +240,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37984,
+            "stars": 37985,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11884,
+                "stars": 11885,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1083,7 +1083,7 @@
             "open_issues": 32,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74743,
+            "stars": 74754,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 2,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25649,
+            "stars": 25650,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 9,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19126,
+            "stars": 19129,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1339,7 +1339,7 @@
             "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "awesome",
               "embeddings",
@@ -1391,7 +1391,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6009,
+            "stars": 6011,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1412,7 +1412,7 @@
             "open_issues": 7,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4346,
+            "stars": 4347,
             "topics": [
               "corpus",
               "dataset",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T08:57:57.145Z",
+    "last_updated": "2026-11-05T09:21:21.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

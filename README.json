@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4091,
+            "stars": 4092,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -240,7 +240,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37985,
+            "stars": 37984,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74776,
+            "stars": 74781,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 3,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25650,
+            "stars": 25651,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 11,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19137,
+            "stars": 19139,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1286,7 +1286,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-01-18T13:35:40Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
             "stars": 1822,
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:39:16.466Z",
+    "last_updated": "2026-11-08T08:53:15.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
@@ -1626,7 +1626,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-21T03:07:06Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "endymecy",
       "repo": "awesome-deeplearning-resources",
       "stars": 3037,

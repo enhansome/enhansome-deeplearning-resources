@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "vzhong",
             "repo": "embeddings",
-            "stars": 225,
+            "stars": 223,
             "topics": [
               "deep-learning",
               "neural-network",
@@ -294,7 +294,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17582,
+            "stars": 17580,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -363,7 +363,7 @@
                 "open_issues": 15,
                 "owner": "tmadl",
                 "repo": "semisup-learn",
-                "stars": 503,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:16:59.371Z"
@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11884,
+                "stars": 11882,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -705,7 +705,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7940,
+                "stars": 7941,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1079,11 +1079,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T16:30:10Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-09T23:05:27Z",
+            "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74785,
+            "stars": 74789,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25653,
+            "stars": 25655,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 11,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19143,
+            "stars": 19144,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1412,7 +1412,7 @@
             "open_issues": 7,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4347,
+            "stars": 4348,
             "topics": [
               "corpus",
               "dataset",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:37:16.171Z",
+    "last_updated": "2026-11-10T09:38:03.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

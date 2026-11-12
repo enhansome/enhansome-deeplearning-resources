@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4092,
+            "stars": 4091,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -82,7 +82,7 @@
             "open_issues": 10,
             "owner": "kratzert",
             "repo": "finetune_alexnet_with_tensorflow",
-            "stars": 776,
+            "stars": 775,
             "topics": [
               "alexnet",
               "deep-learning",
@@ -240,7 +240,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37989,
+            "stars": 37994,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -425,7 +425,7 @@
                 "open_issues": 92,
                 "owner": "1adrianb",
                 "repo": "face-alignment",
-                "stars": 7551,
+                "stars": 7550,
                 "topics": [
                   "deep-learning",
                   "face-alignment",
@@ -522,7 +522,7 @@
                 "open_issues": 17,
                 "owner": "calclavia",
                 "repo": "DeepJ",
-                "stars": 744,
+                "stars": 745,
                 "topics": [
                   "composition",
                   "deep",
@@ -705,7 +705,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7944,
+                "stars": 7943,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1079,11 +1079,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T23:05:27Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-11T19:58:53Z",
+            "open_issues": 36,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74792,
+            "stars": 74803,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1101,10 +1101,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-13T18:04:14Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25658,
+            "stars": 25660,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19146,
+            "stars": 19152,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1179,7 +1179,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6543,
+            "stars": 6544,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1234,7 +1234,7 @@
             "open_issues": 6,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4044,
+            "stars": 4043,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1289,7 +1289,7 @@
             "open_issues": 15,
             "owner": "guillaume-chevalier",
             "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1822,
+            "stars": 1821,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1412,7 +1412,7 @@
             "open_issues": 7,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4349,
+            "stars": 4350,
             "topics": [
               "corpus",
               "dataset",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:13:35.556Z",
+    "last_updated": "2026-11-12T09:41:22.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

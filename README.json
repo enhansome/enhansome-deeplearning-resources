@@ -1083,7 +1083,7 @@
             "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74847,
+            "stars": 74850,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19171,
+            "stars": 19173,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1155,7 +1155,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
+            "stars": 7920,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -1208,7 +1208,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4166,
+            "stars": 4167,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1391,7 +1391,7 @@
             "open_issues": 13,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6011,
+            "stars": 6012,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:00:23.418Z",
+    "last_updated": "2026-11-19T10:09:32.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",

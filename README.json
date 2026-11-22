@@ -397,7 +397,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11882,
+                "stars": 11883,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1079,11 +1079,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T19:27:12Z",
+            "last_commit": "2026-11-21T15:46:05Z",
             "open_issues": 37,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74866,
+            "stars": 74877,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1101,10 +1101,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-16T07:49:00Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25671,
+            "stars": 25676,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19177,
+            "stars": 19179,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1155,7 +1155,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
+            "stars": 7922,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -1179,7 +1179,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6546,
+            "stars": 6547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1234,7 +1234,7 @@
             "open_issues": 6,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4045,
+            "stars": 4046,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1268,7 +1268,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2165,
+            "stars": 2167,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1318,7 +1318,7 @@
             "open_issues": 4,
             "owner": "kanster",
             "repo": "awesome-slam",
-            "stars": 1678,
+            "stars": 1679,
             "topics": []
           },
           "first_seen": "2026-08-28T14:16:59.371Z"
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:35:56.737Z",
+    "last_updated": "2026-11-22T09:39:06.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "Deep Learning and deep reinforcement learning research papers and some codes",
